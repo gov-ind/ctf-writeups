@@ -201,7 +201,7 @@ def partially_decrypt(ciphertext, subkey):
 
 &nbsp;
 
-Here are some arrows summarizing what we've done so far:
+Here are some [arrows](https://en.wikipedia.org/wiki/Combinatorial_explosion) summarizing what we've done so far:
 
 <img src="./combinations.svg" style="margin-bottom: -8em;" />
 
