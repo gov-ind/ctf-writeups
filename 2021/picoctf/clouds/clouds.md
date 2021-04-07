@@ -4,7 +4,7 @@
 
 **Category:** Crypto<br/>
 **Points:** 500<br/>
-**Solves:** 13<br/>
+**Solves:** 16<br/>
 
 &nbsp;
 
