@@ -2,7 +2,7 @@
 
 Category: Crypto<br/>
 Points: 140<br/>
-Solves: 34<br/>
+Solves: 100<br/>
 
 &nbsp;
 
